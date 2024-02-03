@@ -8,6 +8,7 @@
 
 p, 
 ol {
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
     text-align: left;
     width: 800px; 
     overflow-wrap: break-word; 
@@ -25,11 +26,12 @@ ol {
 
 ul
 {
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
     display: table; 
     margin: 0 auto;
     text-align: left;
     }
-
+ 
 .image_block {
     width: 400px;
     height: 300px;
